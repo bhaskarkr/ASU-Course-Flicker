@@ -5,7 +5,7 @@
 
 # How to use it
 * Log in to your asu, enroll to best option available.
-* Go to swap courses, then select the course which you want to swap with, and then click OK and just leave the page the final submission page.
+* Go to swap courses, then select the course which you want to swap with, and then click OK and just leave the page at the final submission page.
 * Then run the mainGUI.py file : It will keep refreshing your swap course page until your session expire. The script will run one more chrome window to track open courses.
 * The selenium code is configured for 1680 x 1050 resolution, feel free to adjust according to your screen.
 * Add the courses accordingly and seats count for that in the course_helper_selenium.py.
