@@ -92,15 +92,3 @@ def open_chrome(url):
             os.system('say "Error Occured"')
             time.sleep(5)
     os.system('say "Script stopped"')
-    # print(data)
-    # l = driver.find_element_by_xpath("//a[text()='Privacy Policy']")
-
-
-    # sign_in_button = driver.find_element(By.XPATH, "/html[1]/body[1]/ytd-app[1]/div[1]/div[1]/ytd-masthead[1]/div[3]/div[3]/div[2]/ytd-button-renderer[1]/yt-button-shape[1]/a[1]/yt-touch-feedback-shape[1]/div[1]/div[2]")
-    # sign_in_button.click()
-    # enter_email = driver.find_element(By.ID, "identifierId")
-    # enter_email.click()
-    # enter_email.send_keys("garfielda035")
-    # enter_email.send_keys(Keys.RETURN)
-    # enter_email.send_keys("garfielda035")
-    # pyautogui.hotkey('Command', 'ctrl', 'f')
